@@ -24,7 +24,7 @@ function Header() {
                         <Navbar.Collapse id="basic-navbar-nav">
                         <Nav className="ml-5">
                             <Nav.Link className="nav-link scrollto" href="/home">Home</Nav.Link>
-                            <Nav.Link className="nav-link scrollto" href="/main/gallery">Gallery</Nav.Link>
+                            {/* <Nav.Link className="nav-link scrollto" href="/main/gallery">Gallery</Nav.Link> */}
                             <Nav.Link className="nav-link scrollto" href="/main/testimonial">Testimonials</Nav.Link>
                             {/*<Nav.Link className="nav-link scrollto" href="/main/pricing">Pricing</Nav.Link>*/}
                             <Nav.Link className="nav-link scrollto" href="/main/faq">F.A.Q</Nav.Link>

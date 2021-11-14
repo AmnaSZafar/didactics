@@ -32,6 +32,12 @@ function Home() {
             
         <div className="container">
           <div className="section-title">
+            
+            <h2>Didactics Prospectus</h2>
+            <p> <a className="btn btn-outline-secondary" href={`${process.env.PUBLIC_URL}/DIDACTICS_PROSPECTUS.pdf`} download>Download the prospectus</a> </p>
+          </div>
+         
+          <div className="section-title">
           
             <h2>App Features</h2>
             <p>
